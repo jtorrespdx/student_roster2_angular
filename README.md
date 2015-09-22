@@ -1,24 +1,24 @@
 #Student Roster
 #####Student Roster website
 
-####By Jason Bethel & Jose Torres
+####By Nathan Young & Jose Torres
 
 ##Description
-
-A site that allows a user to create/edit/search a student roster.
+A learning exercise in AngularJS.
+A site that allows a user to create/edit/search a student roster and permission slips. Uses controllers and factories.
 
 ##Setup
 
-1. Clone repository from GitHub (to put on the desktop in terminal run ```cd ~/Desktop```, then run ```git clone https://github.com/jlbethel/student-roster.git``` or https://github.com/jtorrespdx/student_roster.git).
+1. Clone repository from GitHub (to put on the desktop in terminal run ```cd ~/Desktop```, then run ```git clone``` https://github.com/nhwilcox/student_roster2_angular.git or https://github.com/jtorrespdx/student_roster2_angular.git).
 2. Open the ```student_roster``` directory and then open ```index.html```.
 
 ##Technologies Used
 
-Angular.js, JavaScript,  html, css. 
+Angular.js, JavaScript,  html, css.
 
 ###Legal
 
-Copyright (c) 2015 Jason Bethel & Jose Torres
+Copyright (c) 2015 Nathan Young & Jose Torres
 
 This software is licensed under the MIT license.
 
